@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web3, who isn't!
 - 🌱 I’m currently learning Solidity.
 - 💞️ I’m looking to collaborate on merging code and no-code!
-- 📫 How to reach me mailto:hey@alefyi.com
+- 📫 How to reach me alefyi.com/chat
