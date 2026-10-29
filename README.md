@@ -1,2 +1,4 @@
-- 👋 Hi, I’m @alefyi
-- 📫 How to reach me alefyi.com/chat
+- 👋 Hi, I’m alessandro
+- 🤏 I started using this account as my public-facing one starting June 2026
+- 😶‍🌫️ My private one has cyber sec activity so I keep that one under wraps
+- 🤨 You can always say hey [at] alefyi [dot] com
